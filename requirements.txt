@@ -1,0 +1,10 @@
+rembg
+onnxruntime
+open3d
+trimesh
+pyrender
+matplotlib
+numpy
+Pillow
+ipywidgets
+ipython
